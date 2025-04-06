@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! I'm Aabish Malik 👋</h1>
 <p align="center">
-  <em>Tinkerer • Systems enthusiast • Always building something</em>
+  <em>Tinkerer • Systems programmer • Always building something</em>
 </p>
 
 ---
 
 ### 🧠 About Me
 💻 Currently building <br>
-[Lang98](https://github.com/CierCier/lang98) (WIP) – a compiled programming language using llvm. 
+[Lang98](https://github.com/CierCier/lang98) (WIP) – a compiled programming language using llvm (basically cheating i'll admit) <br>
 
 ---
 
