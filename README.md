@@ -44,3 +44,10 @@ Linux, LLVM, Assembly, Virtualization, UI/UX design, Networking
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CierCier&theme=tokyonight" alt="CierCier's profile summary" />
 </p>
+
+
+### Note
+
+Check out Hoshimachi Suisei While you're here!
+
+[![SuiWave](/assets/sui-wave.jpg)](https://www.youtube.com/@HoshimachiSuisei)
