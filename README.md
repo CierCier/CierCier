@@ -1,8 +1,47 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffee11)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=ff1111)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=default)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=default)
+<h1 align="center">Hey there! I'm Aabish Malik 👋</h1>
+<p align="center">
+  <em>Tinkerer • Systems enthusiast • Always building something</em>
+</p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=CierCier&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CierCier&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+### 🧠 About Me
+💻 Currently building <br>
+[Lang98](https://github.com/CierCier/lang98) (WIP) – a compiled programming language using llvm. 
+
+---
+
+### 🧰 Tech Stack
+
+> Here's a mix of tools and languages I work with regularly:
+
+**Languages**:  
+![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) 
+
+**Frontend & UI**:  
+![QML](https://img.shields.io/badge/QML-44A8B4?style=flat&logo=qt) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte)
+
+**Backend**:  
+![Rocket](https://img.shields.io/badge/Rocket-F5F5F5?style=flat&logo=rocket) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+
+**Misc**:  
+Linux, LLVM, Assembly, Virtualization, UI/UX design, Networking
+
+---
+
+### 📫 Let's Connect
+
+- You can reach me via issues or discussions on any of my repos
+- Or find me on [LinkedIn](https://www.linkedin.com/in/aabishmalik/)
+
+---
+
+### 📊 GitHub Stats
+
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="CierCier's top languages" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CierCier&theme=tokyonight" alt="CierCier's profile summary" />
+</p>
