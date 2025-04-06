@@ -38,10 +38,9 @@ Linux, LLVM, Assembly, Virtualization, UI/UX design, Networking
 
 ### 📊 GitHub Stats
 
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="CierCier's top languages" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CierCier&theme=tokyonight" alt="CierCier's profile summary" />
 </p>
