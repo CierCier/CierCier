@@ -32,7 +32,7 @@ Linux, LLVM, Assembly, Virtualization, UI/UX design, Networking
 ### 📫 Let's Connect
 
 - You can reach me via issues or discussions on any of my repos
-- Or find me on [LinkedIn](https://www.linkedin.com/in/aabishmalik/)
+- ~Or find me on [LinkedIn]()~
 
 ---
 
