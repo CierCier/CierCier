@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 💻 Currently building <br>
-[Lang98](https://github.com/CierCier/lang98) (WIP) – a compiled programming language using llvm (basically cheating i'll admit) <br>
+[Silver](https://github.com/CierCier/silver) (WIP) – a compiled programming language using llvm (basically cheating i'll admit) <br>
 
 ---
 
