@@ -7,7 +7,8 @@
 
 ### 🧠 About Me
 💻 Currently building <br>
-[Silver](https://github.com/CierCier/silver) (WIP) – a compiled programming language using llvm (basically cheating i'll admit) <br>
+Something Weird <br>
+<img src="assets/preview.png" height=300 alt="current project preview">
 
 ---
 
@@ -38,16 +39,19 @@ Linux, LLVM, Assembly, Virtualization, UI/UX design, Networking
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="CierCier's top languages" />
-</p>
-<p align="center">
+<div align="center" flex="column" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="CierCier's top languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CierCier&theme=tokyonight" alt="CierCier's profile summary" />
-</p>
+</div>
 
 
 ### Note
 
 Check out Hoshimachi Suisei While you're here!
-
-[![SuiWave](/assets/sui-wave.jpg)](https://www.youtube.com/@HoshimachiSuisei)
+<br>
+<p align="center">
+  
+<a>
+  <img src="/assets/sui-wave.jpg" height="500">
+</a>
+</p>
