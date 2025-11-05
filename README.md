@@ -1,57 +1,77 @@
-<h1 align="center">Hey there! I'm Aabish Malik 👋</h1>
+<h1 align="center">Aabish Malik</h1>
+<p align="center"><em>Systems programmer</em></p>
+
 <p align="center">
-  <em>Tinkerer • Systems programmer • Always building something</em>
+  <img src="https://img.shields.io/github/followers/CierCier?style=for-the-badge" alt="Followers"/>
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/CryN_01?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2FCryN_01">
 </p>
 
 ---
 
-### 🧠 About Me
-💻 Currently building <br>
-Something Weird <br>
-<img src="assets/preview.png" height=300 alt="current project preview">
+## About
 
----
-
-### 🧰 Tech Stack
-
-> Here's a mix of tools and languages I work with regularly:
-
-**Languages**:  
-![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) 
-
-**Frontend & UI**:  
-![QML](https://img.shields.io/badge/QML-44A8B4?style=flat&logo=qt) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte)
-
-**Backend**:  
-![Rocket](https://img.shields.io/badge/Rocket-F5F5F5?style=flat&logo=rocket) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-
-**Misc**:  
-Linux, LLVM, Assembly, Virtualization, UI/UX design, Networking
-
----
-
-### 📫 Let's Connect
-
-- You can reach me via issues or discussions on any of my repos
-- ~Or find me on [LinkedIn]()~
-
----
-
-### 📊 GitHub Stats
-
-<div align="center" flex="column" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="CierCier's top languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CierCier&theme=tokyonight" alt="CierCier's profile summary" />
-</div>
-
-
-### Note
-
-Check out Hoshimachi Suisei While you're here!
-<br>
+Currently building: Something Weird (Just hope this one doesnt end up in a ditch)
 <p align="center">
+  <img src="assets/preview.png" alt="project preview" height="300">
+</p>
+
+---
+
+## Tech
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Rocket-dd4b39?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocket"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+**Other**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Virtualization-0E83CD?style=for-the-badge&logo=docker&logoColor=white" alt="Virtualization"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+</p>
+
+---
+
+## Contact
+
+Open an issue or discussion on any repo.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CierCier&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   
-<a>
-  <img src="/assets/sui-wave.jpg" height="500">
-</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+---
+### Look at this Suisei 
+<p align="center">
+  <img src="/assets/sui-wave.jpg" alt="decorative image" height="200">
 </p>
