@@ -1,132 +1,64 @@
-<h1 align="center">Aabish Malik</h1>
-<p align="center"><em>Systems programmer</em></p>
+# Aabish Malik
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/CierCier?style=for-the-badge" alt="Followers"/>
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/CryN_01?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2FCryN_01">
-</p>
-
----
-
-## About
-
-Currently building: Something Weird (Just hope this one doesnt end up in a ditch)
-
-<p align="center">
-  <img src="assets/preview.png" alt="project preview" height="300">
-</p>
-
----
+Systems programmer. I work on the boring stuff, so you don't have to.
 
 ## Projects
 
-### [Silver](https://github.com/CierCier/silver) — An Experimental Systems Programming Language
+### [Silver](https://github.com/CierCier/silver)
 
-A statically-typed systems language built on LLVM with deterministic destruction, zero-cost iterators, first-class RAII, and a module system with packaged compilation. The compiler (`agc`) implements parsing, semantic analysis, type checking, and codegen — all from a single self-hosted pipeline.
+General-purpose programming language for some of us.
 
 <table>
 <tr>
-<td width="33%"><img src="assets/silver-ownership.png" alt="Silver ownership"/></td>
-<td width="33%"><img src="assets/silver-datatypes.png" alt="Silver data types"/></td>
-<td width="33%"><img src="assets/silver-iterators.png" alt="Silver iterators"/></td>
+<td width="50%"><img src="assets/silver-iterators.png" alt="Silver for-in loops"/><br>Builtin zero-cost iterators</td>
+<td width="50%"><img src="assets/silver-match.png" alt="Silver match expression"/><br>Match statements for better ergonomics</td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/silver-launch.png" alt="Silver launch and wait"/><br>Threading shouldn't feel like an afterthought</td>
+<td width="50%"><img src="assets/silver-defer.png" alt="Silver defer"/><br>Defers are useful, why not?</td>
 </tr>
 </table>
 
-> **Mutable by default, `const` for immutability** &middot; **Deterministic destruction** &middot; **`move` ownership transfer** &middot; **Generics with monomorphization** &middot; **Zero-cost `for`-in iterators** &middot; **LLVM native codegen**
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white" alt="LLVM"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"/>
-</p>
+WIP self-hosted, LLVM for codegen. MIT licensed.
 
 ---
 
-### [tori](https://github.com/CierCier/tori) — OS Kernel
+### [tori](https://github.com/CierCier/tori)
 
-A rendition of the iridium kernel project. Low-level systems work at the hardware-software boundary.
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Kernel-Critical-red?style=flat-square" alt="kernel"/>
-</p>
-
----
-
-### [fbs-core](https://github.com/i-got-this-faa/fbs-core) — Fast Blob Storage
-
-An S3-compatible blob storage and CDN solution built for self-hosting. High-throughput object storage with a clean API surface.
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/S3-Compatible-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/CDN-FF6C37?style=flat-square&logo=cloudflare&logoColor=white" alt="CDN"/>
-  <img src="https://img.shields.io/github/stars/i-got-this-faa/fbs-core?style=flat-square" alt="stars"/>
-</p>
-
----
-
-## Tech
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QML"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/SvelteKit-4A4A55?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Rocket-dd4b39?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocket"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-**Other**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/Virtualization-0E83CD?style=for-the-badge&logo=docker&logoColor=white" alt="Virtualization"/>
-  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-</p>
-
----
-
-## Stats
+Experimental small OS kernel with fair scheduling.
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=CierCier&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="assets/preview.png" alt="tori booting and drawing an image" height="300">
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CierCier&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+Boots, runs, learnt more about OS internals than college.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CierCier&theme=tokyonight" alt="Contribution streak" />
-</p>
+Written in C++.
+
+---
+
+### [fbs-core](https://github.com/i-got-this-faa/fbs-core)
+
+S3-compliant blob storage. Use it to test in development, host a file-share service, or send memes to your friends. It's boring, because what you can do is the real fun.
+
+Written in Go.
+
+---
+
+## Tools
+
+Gets the work done, I don't really mind anything.
+Proficient in Rust, Python, Go and TypeScript.
 
 ---
 
 ## Contact
 
-Open an issue or discussion on any repo.
+The easiest way is to open an issue or discussion on whichever repo is relevant. I'm also on X as [@CryN_01](https://x.com/CryN_01).
 
 ---
 
-### Look at this Suisei
-
 <p align="center">
-  <img src="assets/sui-wave.jpg" alt="decorative image" height="200">
+  <img src="assets/sui-wave.jpg" alt="Suisei waving" height="200"><br>
+  <em>Suisei says hi.</em>
 </p>
